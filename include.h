@@ -21,7 +21,6 @@
 #include <QTime>
 #include <QTextCodec>
 #include <QWidget>
-#include <ActiveQt/QAxWidget>
 #include <QLabel>
 #include <QProgressBar>
 
