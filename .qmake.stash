@@ -1,7 +1,0 @@
-QMAKE_DEFAULT_INCDIRS = \
-    "d:\\program files\\VC++6.0\\atl\\include" \
-    "d:\\program files\\VC++6.0\\mfc\\include" \
-    "d:\\program files\\VC++6.0\\include"
-QMAKE_DEFAULT_LIBDIRS = \
-    "d:\\program files\\VC++6.0\\mfc\\lib" \
-    "d:\\program files\\VC++6.0\\lib"
